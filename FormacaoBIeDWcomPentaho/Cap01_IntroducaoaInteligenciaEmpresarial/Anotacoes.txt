@@ -1,1 +1,4 @@
 # Existem visões de negócios diferentes, dentro de cada setor, valor de venda, dentro do comercial, financeiro e contábil, são de informações diferentes.
+
+
+cubos OLAP, MOLAP, ROLAP E HIBRIDO
