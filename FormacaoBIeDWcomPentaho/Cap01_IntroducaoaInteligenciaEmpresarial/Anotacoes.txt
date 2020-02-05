@@ -2,3 +2,21 @@
 
 
 cubos OLAP, MOLAP, ROLAP E HIBRIDO
+
+Molap é o mais rapido pois  ele ja faz todos os calculos antes e os consolida
+
+# Revisão :
+
+Matriz versus indicador, apos intrevista com os envolvidos
+
+Construção do DW apos construção da matriz, definir de onde irão vir as fontes de dados
+
+Transformações e definir regras de negocios
+
+Apos DW pronto definir os OLAPS, se é de vendas, Financeiro, contab etc...
+
+Ferramentas de visializações de acordo com onível do usuário
+
+
+PRocesso de BI
+Matriz, construção do Data Warehouse, identificação das fontes de dados, criação do processo de ETL e/ou construção de ODS, carga do Data Warehouse, criação e carga dos OLAPs, construção e criação dos aplicativos para consulta dos dados por parte dos usuários.
